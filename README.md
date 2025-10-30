@@ -1,54 +1,51 @@
-Workforce Insights: Excel-Based Analysis of Employees and Departments
+💼Workforce Insights: Excel-Based Analysis of Employees and Departments
 
-An interactive Excel-based analytics project designed to manage, analyze, and visualize workforce data.
-This project focuses on deriving insights from employee and department datasets using advanced Excel features such as Power Query, Power Pivot, DAX, macros, and dashboards.
+An interactive Excel-based analytics project designed to manage, analyze, and visualize workforce data. This project focuses on deriving insights from employee and department datasets using advanced Excel features such as Power Query, Power Pivot, DAX, macros, and dashboards.
 
 Project Overview
 
-The Workforce Insights system enables HR teams and management to analyze employee and department performance efficiently.
-It integrates raw data cleaning, transformation, and visualization into one powerful Excel file.
+The Workforce Insights system enables HR teams and management to analyze employee and department performance efficiently. It integrates raw data cleaning, transformation, and visualization into one powerful Excel file.
 
 Key Features
 
 Interactive Dashboard
-Visualizes workforce distribution, department performance, salary trends, and more.
+- Visualizes workforce distribution, department performance, salary trends, and more.
 
 Automated Data Cleaning
-Power Query is used for transforming and standardizing employee and department data.
+- Power Query is used for transforming and standardizing employee and department data.
 
 Data Modeling with Power Pivot
-Relationships between Employees and Departments are modeled to enable dynamic analysis.
+- Relationships between Employees and Departments are modeled to enable dynamic analysis.
 
 Dynamic Reports
-Users can filter data by Department, Role, Gender, and Salary Range for quick insights.
+- Users can filter data by Department, Role, Gender, and Salary Range for quick insights.
 
 Macros for Efficiency
-Automates repetitive Excel tasks like data refresh, report export, and formatting.
+- Automates repetitive Excel tasks like data refresh, report export, and formatting.
 
 DAX Calculations
-Measures include total salary, average salary per department, employee count, and growth trends.
+- Measures include total salary, average salary per department, employee count, and growth trends.
 
 Data Validation & Named Ranges
-Ensures clean input and easy reference throughout the workbook.
+- Ensures clean input and easy reference throughout the workbook.
 
 File Details
 
 File Name: Workforce Insights Excel-Based Analysis of Employees and Departments.xlsm
 File Type: Macro-Enabled Excel Workbook (.xlsm)
-Primary Sheets (likely):
+
+Primary Sheets :
 
 Employee_Data
-
 Department_Data
-
 Dashboard
-
 Pivot_Analysis
-
 Power_Query_Cleaned_Data
 
 Tools & Technologies Used
+
 Tool / Feature	Purpose
+
 Microsoft Excel (.xlsm)	Main platform for analysis
 Power Query	Data cleaning and transformation
 Power Pivot	Data modeling and DAX calculations
