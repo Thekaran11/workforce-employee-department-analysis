@@ -36,47 +36,47 @@ File Type: Macro-Enabled Excel Workbook (.xlsm)
 
 Primary Sheets :
 
-Employee_Data
-Department_Data
-Dashboard
-Pivot_Analysis
-Power_Query_Cleaned_Data
+- Employee_Data
+- Department_Data
+- Dashboard
+- Pivot_Analysis
+- Power_Query_Cleaned_Data
 
 Tools & Technologies Used
 
 Tool / Feature	Purpose
 
-Microsoft Excel (.xlsm)	Main platform for analysis
-Power Query	Data cleaning and transformation
-Power Pivot	Data modeling and DAX calculations
-Excel Macros (VBA)	Automation and interactivity
-Data Validation	Input accuracy
-Conditional Formatting	Visual highlighting of patterns
-Pivot Tables & Charts	Reporting and insights
+- Microsoft Excel (.xlsm)	Main platform for analysis
+- Power Query	Data cleaning and transformation
+- Power Pivot	Data modeling and DAX calculations
+- Excel Macros (VBA)	Automation and interactivity
+- Data Validation	Input accuracy
+- Conditional Formatting	Visual highlighting of patterns
+- Pivot Tables & Charts	Reporting and insights
 
 How to Use
 
-Open the workbook in Excel (enable macros when prompted).
+- Open the workbook in Excel (enable macros when prompted).
 
-Navigate to the Dashboard tab to explore insights interactively.
+- Navigate to the Dashboard tab to explore insights interactively.
 
-Refresh data using the provided macro button or through Power Query.
+- Refresh data using the provided macro button or through Power Query.
 
-Use filters and slicers to drill down by department, role, or salary range.
+- Use filters and slicers to drill down by department, role, or salary range.
 
-Review results using pivot tables and visual dashboards.
+- Review results using pivot tables and visual dashboards.
 
-Sample Insights (Possible KPIs)
+- Sample Insights 
 
-Total number of employees
+- Total number of employees
 
-Employees per department
+- Employees per department
 
-Average salary by department
+- Average salary by department
 
-Gender distribution
+- Gender distribution
 
-Department-wise attrition or growth rate
+- Department-wise attrition or growth rate
 
 Top 5 highest-paid employees
 
